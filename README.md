@@ -16,3 +16,5 @@ weather.sh - A bash file that receives data from the vttr.in API and creates a h
 shedule_crontab - Runs a file on a schedule once per minute.
 
 index.nginx-debian.html - the file that is created by our script
+
+![What should be the result](./result.png)
